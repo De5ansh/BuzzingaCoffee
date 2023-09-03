@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BuzzingaCoffee</string>
+    <string name="buzz">Buzzinga</string>
+    <string name="logo">Buzzinga coffee</string>
+    <string name="coffee">Coffee</string>
+    <string name="drinks">Drinks...</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string-array name="drink_options">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filter</item>
+    </string-array>
+</resources>
